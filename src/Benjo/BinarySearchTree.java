@@ -1,9 +1,9 @@
 package Benjo;
 
-public class BinarySearchThree {
+public class BinarySearchTree {
 	private Node root;	
 	
-	public BinarySearchThree(){
+	public BinarySearchTree(){
 		this.root = null;
 	}
 	
